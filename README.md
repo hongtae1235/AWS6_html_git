@@ -41,4 +41,4 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 
 - [AWS S3 정적 웹 호스팅 문서](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/WebsiteHosting.html)
 - [CloudFront 배포 시작하기](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html)
-- [GitHub Pages → S3 이행 가이드](https://aws.amazon.com/ko/blogs/)
+- [GitHub Pages - S3 이행 가이드](https://aws.amazon.com/ko/blogs/)
