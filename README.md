@@ -22,8 +22,8 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 | 3️. 정적 파일 호스팅 | 완성된 파일을 S3 버킷에 업로드 | amazon S3 |
 | 4️. 배포 가속 | 빠른 응답, HTTPS 적용 | cloudfront |
 | 5️. 사용자 도메인 연결 | Route 53 에 도메인 레코드 설정 | route 53 |
-| 6️. 권한 분리,보안 | IAM User Group Policy로 팀별 권한 분리 | IAM |
-| 7️. 모니터링,로깅 | 성능·오류 확인, 비용 최적화 | cloudwatch |
+| 6️. 권한 분리,보안 | IAM User Group Policy로 팀별 권한 분리 | IAM (필수 x 추가 공부 사항)|
+| 7️. 모니터링,로깅 | 성능·오류 확인, 비용 최적화 | cloudwatch (필수 x 추가 공부 사항)|
 
 ---
 
