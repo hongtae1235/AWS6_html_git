@@ -24,7 +24,6 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 | 5️. 사용자 도메인 연결 | Route 53 에 도메인 레코드 설정 | route 53 |
 | 6️. 권한 분리,보안 | IAM User Group Policy로 팀별 권한 분리 | IAM |
 | 7️. 모니터링,로깅 | 성능·오류 확인, 비용 최적화 | cloudwatch |
-| 8️. 추가 학습,확장 | 필요시 Lambda / API Gateway / RDS 적용 | 
 
 ---
 
