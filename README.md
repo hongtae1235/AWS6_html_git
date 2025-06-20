@@ -17,14 +17,14 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 
 | 단계 | 내용 | 사용 서비스·도구 |
 | --- | --- | --- |
-| 1 디자인·기능 구현 | Visual Studio Code 등으로 프론트엔드 개발 | HTML, CSS, JS |
-| 2️ 코드 버전 관리 | 팀원이 동시에 작업하고 기록 추적 | Git · GitHub |
-| 3️ 정적 파일 호스팅 | 완성된 파일을 S3 버킷에 업로드 | **Amazon S3** |
-| 4️ 전세계 배포 가속 | 빠른 응답 & HTTPS 적용 | **CloudFront** (SSL, 캐싱) |
-| 5️ 사용자 도메인 연결 | `Route 53`에 도메인 레코드 설정 | **Route 53** |
-| 6️ 권한 분리·보안 | IAM User·Group·Policy로 팀별 권한 분리 | **IAM** |
-| 7️ 모니터링·로깅 | 성능·오류 확인, 비용 최적화 | CloudWatch, S3 Access Log |
-| 8️ 추가 학습·확장 | 필요시 Lambda / API Gateway / RDS 적용 | *선택* |
+| 1. 디자인·기능 구현 | Visual Studio Code 등으로 프론트엔드 개발 | HTML, CSS, JS |
+| 2️. 코드 버전 관리 | 팀원이 동시에 작업하고 기록 추적 | Git · GitHub |
+| 3️. 정적 파일 호스팅 | 완성된 파일을 S3 버킷에 업로드 | **Amazon S3** |
+| 4️. 전세계 배포 가속 | 빠른 응답 & HTTPS 적용 | **CloudFront** (SSL, 캐싱) |
+| 5️. 사용자 도메인 연결 | `Route 53`에 도메인 레코드 설정 | **Route 53** |
+| 6️. 권한 분리·보안 | IAM User·Group·Policy로 팀별 권한 분리 | **IAM** |
+| 7️. 모니터링·로깅 | 성능·오류 확인, 비용 최적화 | CloudWatch, S3 Access Log |
+| 8️. 추가 학습·확장 | 필요시 Lambda / API Gateway / RDS 적용 | *선택* |
 
 ---
 
