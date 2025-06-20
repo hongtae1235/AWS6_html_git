@@ -28,7 +28,7 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 
 ---
 
-## 🎯 목표
+## 목표
 
 - **팀워크 강화** : Git & GitHub Flow로 협업 절차 숙달  
 - **클라우드 이해도 향상** : AWS 핵심 서비스(S3, CloudFront, Route 53, IAM)를 실습  
@@ -37,7 +37,7 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 
 ---
 
-## 📚 참고 링크
+## 참고 링크
 
 - [AWS S3 정적 웹 호스팅 문서](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/WebsiteHosting.html)
 - [CloudFront 배포 시작하기](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html)
@@ -45,7 +45,7 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 
 ---
 
-> ✏️ **편집 방법**  
+>  **편집 방법**  
 > 1. 이 파일을 로컬에서 수정 → `git add README.md`  
 > 2. `git commit -m "docs: add AWS 활용 계획"`  
 > 3. `git push origin main`  
