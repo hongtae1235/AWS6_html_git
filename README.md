@@ -37,16 +37,8 @@ AWs 6조는 **HTML + CSS + JavaScript** 로 간단한 웹사이트를 개발하�
 
 ---
 
-## 참고 링크
+## 혹시 모를 참고 링크
 
 - [AWS S3 정적 웹 호스팅 문서](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/WebsiteHosting.html)
 - [CloudFront 배포 시작하기](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html)
 - [GitHub Pages → S3 이행 가이드](https://aws.amazon.com/ko/blogs/)
-
----
-
->  **편집 방법**  
-> 1. 이 파일을 로컬에서 수정 → `git add README.md`  
-> 2. `git commit -m "docs: add AWS 활용 계획"`  
-> 3. `git push origin main`  
->    GitHub에서 “Preview” 탭으로 결과를 바로 확인할 수 있습니다.
